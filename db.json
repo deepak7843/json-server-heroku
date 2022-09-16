@@ -3,6 +3,8 @@
     {"id": 1, "name": "dsd A"},
     {"id": 2, "name": "product b"},
     {"id": 3, "name": "product c"},
-    {"id": 4, "name": "product d"}
+    {"id": 4, "name": "product d"},
+    {"id": 5, "name": "dsd d"},
+    {"id": 6, "name": "lalu d"}
   ]
 }  
