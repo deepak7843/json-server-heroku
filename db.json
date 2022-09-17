@@ -1,20 +1,22 @@
 {
-  "users": [
+  "cars": [
     {
       "id": 1,
-      "name": "Chandra",
-      "age": 29,
-      "place": "Visakhapatnam",
-      "batch_name": "WEB-21",
-      "profession": "FSD"
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
     },
     {
-      "id": 1,
-      "name": "Nrupul",
-      "age": 32,
-      "place": "Vijayawada",
-      "batch_name": "WEB-18",
-      "profession": "FSD"
+      "id": 2,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
     }
   ]
 }
