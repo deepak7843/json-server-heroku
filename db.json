@@ -1,15 +1,15 @@
 {
   "hotels": [
     {
-      "category": "deluxe",
-      "image_url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
-      "type_of_room": "Non AC",
-      "bed_type": "single",
-      "no_of_persons": "4",
-      "capacity": "4",
-      "cost": "4000",
+      "category": "",
+      "image_url": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "type_of_room": "AC",
+      "bed_type": "",
+      "no_of_persons": "6",
+      "capacity": "7",
+      "cost": "500",
       "booked": false,
-      "id": 4
+      "id": 1
     }
   ]
 }
