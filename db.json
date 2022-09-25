@@ -1,13 +1,33 @@
 {
-  "cart": [
+  "cars": [
     {
       "id": 1,
-      "name": "Shute",
-      "type": "fine_dining",
-      "rating": 4.5,
-      "number_of_votes": 588,
-      "price_starts_from": 925,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOqkgvEDiefZVU7SLsWqvzRZIIY_-kqyd_Dg&usqp=CAU"
+      "brand": "Tata",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+			"type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    }
+  ],
+"wishlisted_cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
     }
   ]
 }
