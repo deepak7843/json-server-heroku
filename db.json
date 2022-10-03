@@ -31,7 +31,98 @@
     }
   ],
   "cart": [],
-  "student": [],
+  "student": [
+    {
+      "name": "dsd",
+      "gender": "Male",
+      "age": "23",
+      "subject": "math",
+      "mark": "74",
+      "date": "2020-06-05",
+      "id": 1
+    },
+    {
+      "name": "dsd@",
+      "gender": "male",
+      "age": "54",
+      "subject": "",
+      "mark": "",
+      "date": "",
+      "id": 2
+    },
+    {
+      "name": "sita",
+      "gender": "female",
+      "age": "12",
+      "subject": "hindi",
+      "mark": "57",
+      "date": "",
+      "id": 3
+    },
+    {
+      "name": "mukesh",
+      "gender": "male",
+      "age": "43",
+      "subject": "",
+      "mark": "",
+      "date": "",
+      "id": 4
+    },
+    {
+      "name": "ram",
+      "gender": "male",
+      "age": "54",
+      "subject": "",
+      "mark": "",
+      "date": "",
+      "id": 5
+    },
+    {
+      "name": "shivam",
+      "gender": "male",
+      "age": "23",
+      "subject": "",
+      "mark": "",
+      "date": "",
+      "id": 6
+    },
+    {
+      "name": "gita",
+      "gender": "female",
+      "age": "26",
+      "subject": "",
+      "mark": "",
+      "date": "",
+      "id": 7
+    },
+    {
+      "name": "lata",
+      "gender": "female",
+      "age": "27",
+      "subject": "",
+      "mark": "",
+      "date": "",
+      "id": 8
+    },
+    {
+      "name": "ram",
+      "gender": "male",
+      "age": "29",
+      "subject": "",
+      "mark": "",
+      "date": "",
+      "id": 9
+    },
+    {
+      "name": "sonu",
+      "gender": "male",
+      "age": "30",
+      "subject": "",
+      "mark": "",
+      "date": "",
+      "id": 10
+    }
+  ],
   "tests":[],
   "teacher": []
 }
