@@ -248,5 +248,16 @@
       ]
     }
   ],
-  "user": []
+  "user": [
+    {
+      "name": "lala",
+      "score": 4,
+      "id": 1
+    },
+    {
+      "name": "virat",
+      "score": 14,
+      "id": 2
+    }
+  ]
 }
