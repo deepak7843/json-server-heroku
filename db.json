@@ -125,5 +125,128 @@
   ],
   "tests":[],
   "teacher": [],
-  "quiz": []
+  "quiz": [],
+  "questions": [
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the largest lake in the African continent?",
+      "correct_answer": "Lake Victoria",
+      "incorrect_answers": [
+        "Lake Tanganyika",
+        "Lake Malawi",
+        "Lake Turkana"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the right way to spell the capital of Hungary?",
+      "correct_answer": "Budapest",
+      "incorrect_answers": [
+        "Boodapest",
+        "Bhudapest",
+        "Budapast"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the official language of Bhutan?",
+      "correct_answer": "Dzongkha",
+      "incorrect_answers": [
+        "Ladakhi",
+        "Karen",
+        "Groma"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country has three capital cities?",
+      "correct_answer": "South Africa",
+      "incorrect_answers": [
+        "Somalia",
+        "China",
+        "United Kingdom"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Broome is a town in which state of Australia?",
+      "correct_answer": "Western Australia",
+      "incorrect_answers": [
+        "Northern Territory",
+        "South Australia",
+        "Tasmania"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the fifth largest country by area?",
+      "correct_answer": "Brazil",
+      "incorrect_answers": [
+        "United States",
+        "Australia",
+        "India"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the capital city of Slovenia?",
+      "correct_answer": "Ljubljana",
+      "incorrect_answers": [
+        "Maribor",
+        "Velenje",
+        "Trbovlje"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the capital of Lithuania?",
+      "correct_answer": "Vilnius",
+      "incorrect_answers": [
+        "Tallinn",
+        "Helsinki",
+        "Riga"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many rivers are in Saudi Arabia?",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which two modern-day countries used to be known as the region of Rhodesia between the 1890s and 1980?",
+      "correct_answer": "Zambia &amp; Zimbabwe",
+      "incorrect_answers": [
+        "Togo &amp; Benin",
+        "Lesotho &amp; Swaziland",
+        "Rwanda &amp; Burundi"
+      ]
+    }
+  ],
+  "user": []
 }
